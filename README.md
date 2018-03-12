@@ -27,8 +27,8 @@ make install copy clean
 This option requires to use the latest version of XCode.
 
 ```bash
-brew tap soheilbm/formulae
-brew install soheilbm/formulae/carthage-cache
+brew tap maybeiamme/carthage-cache
+brew install carthage-cache
 ```
 
 
